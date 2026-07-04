@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я Suegetsu 👋
 
-<!--
-**darkeblaste/darkeblaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python-разработчик, специализируюсь на создании Telegram-ботов и автоматизации процессов. 
 
-Here are some ideas to get you started:
+### 🛠 Мой стек технологий:
+- **Языки программирования:** Python
+- **Библиотеки для ботов:** Telebot (PyTelegramBotAPI)
+- **Операционные системы:** Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Мои проекты и творчество:
+Здесь я публикую исходный код своих ботов, скриптов для автоматизации и различных полезных инструментов. Вы можете зайти в раздел **"Репозитории"**, чтобы посмотреть мои работы изнутри.
+
+### 📢 Мои контакты:
+- **Telegram-канал:** [suebotpy](https://t.me/suebotpy) — здесь я делюсь готовыми скриптами и пишу про свой путь в IT.
+- **Для заказов и сотрудничества:** [@suegetsuuki](https://t.me/suegetsuuki)
