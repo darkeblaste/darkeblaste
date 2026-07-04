@@ -12,4 +12,4 @@ Python-разработчик, специализируюсь на создан�
 
 ### 📢 Мои контакты:
 - **Telegram-канал:** [suebotpy](https://t.me/suebotpy) — здесь я делюсь готовыми скриптами и пишу про свой путь в IT.
-- **Для заказов и сотрудничества:** [@suegetsuuki](https://t.me/suegetsuki)
+- **Для заказов и сотрудничества:** [@suegetsuki](https://t.me/suegetsuki)
